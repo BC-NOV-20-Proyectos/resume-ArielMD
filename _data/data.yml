@@ -95,8 +95,8 @@ skills:
     - name: HTML
       level: 80%
 
-    - name: CSS
-      level: 60%
+    - name: CSS | Sass
+      level: 80%
 
     - name: Javascript
       level: 80%
@@ -113,7 +113,10 @@ skills:
     - name: Ruby on Rails
       level: 60%
     
-    - name: MySql | Postgresql | DB modeling
+    - name: MySql | Postgresql
+      level: 60%
+
+    - name: DB modeling
       level: 60%
     
     - name: git

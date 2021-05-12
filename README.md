@@ -4,6 +4,8 @@
 
 El propósito de esta actividad es tener un perfil completo de nuestros BrightCoders.
 
+[Curriculum Vitae](https://bc-nov-20-proyectos.github.io/resume-ArielMD/)
+
 ## Instrrucciones
 
 Actualiza el archivo [_data/data.yml](_data/data.yml) con tu información, siguiendo las indicaciones que a continuación se presentan.
